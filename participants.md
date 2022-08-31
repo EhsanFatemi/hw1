@@ -1,3 +1,4 @@
+
 A list of participants in CSC 195
 ---------------------------------
 
@@ -5,6 +6,7 @@ A list of participants in CSC 195
 
 * Toby E. Baratta
 * Larry Boateng Asante
+* Ehsan Fatemi
 * Ezra "Slow Rider" Edgerton
 * Halley Freger
 * Seth D. H. Hanson
